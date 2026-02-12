@@ -22,5 +22,9 @@ To assess predictive feasibility using principled data science methodology rathe
 The dataset does not contain sufficient information to support a reliable regression model.  
 This project highlights the importance of **scientifically validating model infeasibility**, a critical real-world data science skill.
 
+## Dataset Credit
+The dataset used in this project is publicly available on **Kaggle** and is utilized here strictly for educational and analytical purposes.
+dataset link : [https://www.kaggle.com/datasets/nalisha/shopping-behaviour-and-product-ranking-dateset]
+
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
