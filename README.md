@@ -24,7 +24,7 @@ This project highlights the importance of **scientifically validating model infe
 
 ## Dataset Credit
 The dataset used in this project is publicly available on **Kaggle** and is utilized here strictly for educational and analytical purposes.
-dataset link : [https://www.kaggle.com/datasets/nalisha/shopping-behaviour-and-product-ranking-dateset]
+[https://www.kaggle.com/datasets/nalisha/shopping-behaviour-and-product-ranking-dateset]
 
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
